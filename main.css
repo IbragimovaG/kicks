@@ -1,0 +1,21 @@
+*{
+    font-family: Rubik;
+}
+.home{
+    background-image: url(./assets/image\ 14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.back{
+    background-image: url(./assets/image\ 31\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+}
+.back1{
+    background-image: url(./assets/image\ 31\ \(3\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+}
